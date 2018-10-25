@@ -10,6 +10,7 @@ ganrao
 ganrao
 这是干扰
 这是干扰这是干扰
+vackbot token="LKJJHFGHkjhjkhHGHJGJHasdfasJKHJHGdajsbdhjasgjkbHJSGhDB"
 File "/Users/lei/Desktop/desktop/component/vackbot/123.py", line 1
 SyntaxError: Non-ASCII character '\xe8' in file /Users/lei/Desktop/desktop/component/vackbot/123.py on line 1, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
 [Finished in 0.1s with exit code 1]
