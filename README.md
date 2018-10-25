@@ -1,2 +1,2 @@
 # vackbot
-vackbot token LKJJHFGHkjhjkhHGHJGJHasdfasJKHJHGdajsbdhjasgjkbHJSGhDB
+vackbot token="LKJJHFGHkjhjkhHGHJGJHasdfasJKHJHGdajsbdhjasgjkbHJSGhDB"
